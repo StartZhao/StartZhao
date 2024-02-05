@@ -1,4 +1,3 @@
-### Hi there 👋
 **一个不断学习菜鸟**
 <!--
 **StartZhao/StartZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
